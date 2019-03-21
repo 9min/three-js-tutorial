@@ -1,0 +1,18 @@
+{
+  "name": "three-js-tutorial",
+  "version": "1.0.0",
+  "description": "Three.js Tutorial",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9min/three-js-tutorial.git"
+  },
+  "author": "9min",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9min/three-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/9min/three-js-tutorial#readme"
+}
